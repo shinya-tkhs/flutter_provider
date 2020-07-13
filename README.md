@@ -1,4 +1,4 @@
-# flutterbloc
+# flutter_bloc
 
 A new Flutter application.
 
