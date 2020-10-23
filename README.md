@@ -1,6 +1,6 @@
-# flutter_bloc
+# flutter_provider
 
-A new Flutter application.
+A new Flutter project to show Provider samples.
 
 ## Getting Started
 
